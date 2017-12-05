@@ -1,0 +1,7 @@
+dependencies: \
+  /Users/haley/Labs/DrawingApp/node_modules/react-native/third-party/double-conversion-1.1.5/src/fast-dtoa.cc \
+  /Users/haley/Labs/DrawingApp/node_modules/react-native/third-party/double-conversion-1.1.5/src/fast-dtoa.h \
+  /Users/haley/Labs/DrawingApp/node_modules/react-native/third-party/double-conversion-1.1.5/src/utils.h \
+  /Users/haley/Labs/DrawingApp/node_modules/react-native/third-party/double-conversion-1.1.5/src/cached-powers.h \
+  /Users/haley/Labs/DrawingApp/node_modules/react-native/third-party/double-conversion-1.1.5/src/diy-fp.h \
+  /Users/haley/Labs/DrawingApp/node_modules/react-native/third-party/double-conversion-1.1.5/src/ieee.h
